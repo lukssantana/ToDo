@@ -11,6 +11,4 @@ A **IGNITE** é um curso da **Rocketseat** de imersão em tecnologia. Onde em se
 Nesse módulo iremos criar um app com Node.js do total zero, colocando em prática todos os conceitos estudados no módulo inicial. 
 Rodaremos também os testes utilizando Jest para teste unitários na app
 
-Agradecimento à **Rocketseat** 🚀 pelo curso incrível!💜
-
 _Lucas Santanna_
